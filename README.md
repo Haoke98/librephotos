@@ -52,3 +52,12 @@ Step-by-step installation instructions are available in our [documentation](http
 - **Reverse geocoding:** [Mapbox](https://www.mapbox.com/): You need to have an API key. First 50,000 geocode lookups are free every month.
 
 [discord]: https://discord.gg/xwRvtSDGWb
+
+
+## Environment Building Instruction
+### MacOS
+1. Install the vips
+```shell
+brew install vips
+```
+
